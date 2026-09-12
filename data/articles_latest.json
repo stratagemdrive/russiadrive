@@ -1,8 +1,110 @@
 {
-  "updated_at_utc": "2026-09-12T21:14:14Z",
+  "updated_at_utc": "2026-09-12T23:46:15Z",
   "keep_hours": 48,
-  "count": 375,
+  "count": 370,
   "articles": [
+    {
+      "id": "10154cb1c2e37bc93d15a5b2fa0e3914e22787a6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2186851",
+      "published_utc": "2026-09-12T23:39:56Z",
+      "title_en": "US believes Russia, Ukraine want to find way to settle conflict — Kushner",
+      "lead_en": "The presidential envoy said the negotiators \"have to find the right formula\" for the deal",
+      "title_raw": "US believes Russia, Ukraine want to find way to settle conflict — Kushner",
+      "lead_raw": "The presidential envoy said the negotiators \"have to find the right formula\" for the deal",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "464bf919983aa40ef403061cf504a5f78c0dd002",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28107093",
+      "published_utc": "2026-09-12T23:10:41Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Кушнер предложил Украине отступить к границе, обозначенной Россией",
+      "lead_raw": "В этом случае была бы согласована оставшаяся часть сделки, отметил зять американского лидера",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "68ea1ab33581ab8710b096b61619893472a6d830",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186843",
+      "published_utc": "2026-09-12T23:02:30Z",
+      "title_en": "Higher gas prices in Europe are price of globalist ideology — Dmitriev",
+      "lead_en": "The Russian presidential envoy highlighted its \"deep economic irrationality\"",
+      "title_raw": "Higher gas prices in Europe are price of globalist ideology — Dmitriev",
+      "lead_raw": "The Russian presidential envoy highlighted its \"deep economic irrationality\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b8165a01e2bd512cdfb7bcb34681a1b11f003420",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28107087",
+      "published_utc": "2026-09-12T23:01:14Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Пушилин назвал выборы в ГД последним шагом интеграции ДНР в Россию",
+      "lead_raw": "Глава республики отметил, что регион подходит к этому событию с \"полнотой ответственности\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c0e64605a1b18b9ecc6a69c835318faa58ca590b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28107045",
+      "published_utc": "2026-09-12T22:02:38Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Марочко заявил, что ВСУ хотят отсрочить неизбежное в Доброполье за счет солдат",
+      "lead_raw": "Украинское командование пытается наращивать группировку в городе, российские силы готовят для противника огневой мешок, уточнил военный эксперт",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2d9d64e81381a41cca5f6dc9f828a5f8a3a205da",
       "source": "TASS (RU)",
@@ -612,7 +714,7 @@
       "url": "https://tass.ru/armiya-i-opk/28106651",
       "published_utc": "2026-09-12T15:10:33Z",
       "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The Russian army continued to attack Ukrainian seaports",
       "title_raw": "ВС РФ поразили сухогруз с военными грузами ВСУ в порту Одесса",
       "lead_raw": "Российская армия продолжила нанесение ударов по морским портам Украины",
       "topic_scores": {
@@ -769,7 +871,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/kultura/28106487",
       "published_utc": "2026-09-12T14:12:25Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "The festival \"Cossack Village Moscow\" brought together participants from 42 regions of the Russian Federation and Belarus",
       "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Фестиваль \"Казачья станица Москва\" собрал участников из 42 регионов РФ и Белоруссии",
       "lead_raw": "Атаман Всероссийского казачьего общества Виталий Кузнецов на фестивале отметил, что современное казачество - воины, которые защищают Россию и участвуют в СВО",
@@ -830,7 +932,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/28106551",
       "published_utc": "2026-09-12T13:55:30Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Lavrov: Zelensky travels, but the Russian leadership has business at home",
       "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Лавров: Зеленский путешествует, а у руководства России есть дела и дома",
       "lead_raw": "Министр иностранных дел РФ отметил, что если Владимир Зеленский хочет встретиться, то \"пусть приезжает\" в Москву",
@@ -1840,7 +1942,7 @@
       "url": "https://tass.ru/sport/28105417",
       "published_utc": "2026-09-12T06:26:57Z",
       "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The tournament will take place from October 27 to November 8 in China",
       "title_raw": "В предварительную заявку на ЧМ вошли 30 российских штангистов",
       "lead_raw": "Турнир пройдет с 27 октября по 8 ноября в Китае",
       "topic_scores": {
@@ -3298,7 +3400,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/28104489",
       "published_utc": "2026-09-11T18:29:20Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Putin noted the friendly nature of relations between Russia and Malaysia",
       "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Путин отметил дружественный характер отношений между Россией и Малайзией",
       "lead_raw": "Президент РФ отметил, что между странами поддерживается высокая динамика контактов по линии Советов безопасности, парламентов, внешнеполитических и других ведомств",
@@ -3656,7 +3758,7 @@
       "url": "https://tass.ru/mezhdunarodnaya-panorama/28104341",
       "published_utc": "2026-09-11T16:52:52Z",
       "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "She emphasized that the Zelensky regime calls anyone who is ready to talk “about peace and compromise” pro-Russian.",
       "title_raw": "Мендель заявила, что Украине придется начать переговоры с Россией",
       "lead_raw": "Она подчеркнула, что режим Зеленского называет пророссийским любого, кто готов говорить \"о мире и компромиссе\"",
       "topic_scores": {
@@ -3876,7 +3978,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/28104285",
       "published_utc": "2026-09-11T16:24:11Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Egyptian President hopes for stabilization of the situation in the Middle East",
       "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Президент Египта надеется на стабилизацию обстановки на Ближнем Востоке",
       "lead_raw": "Особенно важно обеспечение безопасности морских акваторий и артерий, свободы навигации, подчеркнул Абдель Фаттах ас-Сиси на встрече с российским лидером",
@@ -7298,210 +7400,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "4f6def36be3b9d33c355608e5ac7b9f307808cba",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28101081",
-      "published_utc": "2026-09-10T23:43:52Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "В России составят список методов определения дипфейков",
-      "lead_raw": "Также появятся единые рекомендации по безопасному поведению в цифровом пространстве в образовательных программах всех уровней",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f524d5e6b73f5ad13428277a216964e2c7bd2d7a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2185797",
-      "published_utc": "2026-09-10T23:27:46Z",
-      "title_en": "PREVIEW: Putin begins three-day visit to India for BRICS summit",
-      "lead_en": "Russian President will address the plenary session of the annual Business Forum",
-      "title_raw": "PREVIEW: Putin begins three-day visit to India for BRICS summit",
-      "lead_raw": "Russian President will address the plenary session of the annual Business Forum",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f6971e6e713834587e564d9e892e3e8449b4568c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28101053",
-      "published_utc": "2026-09-10T23:12:32Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "В Минздраве сообщили о сокращении потребления алкоголя в России",
-      "lead_raw": "За 10 лет россияне стали пить меньше на 24%, отметил специалист ЦНИИОИЗ Министерства здравоохранения Виктор Зыков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a83ed6e50fbd12f1e5873e15b32ddb625fbad948",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28101049",
-      "published_utc": "2026-09-10T23:00:43Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Марочко сообщил о закреплении ВС РФ у Василевской Пустоши под Краматорском",
-      "lead_raw": "Российские военнослужащие начали бои за населенный пункт, отметил эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "16d54bdad2a7160aebdf3760b5d5648f6de1b2eb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28101017",
-      "published_utc": "2026-09-10T22:27:10Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Глава СПЧ считает, что многие интеллектуалы на Западе понимают первопричины СВО",
-      "lead_raw": "Умные люди осознают, что \"Россия вынуждена была обороняться\", добавил Валерий Фадеев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6fab9a43277c7180d7c6bf9bb3c908b913cb51f8",
-      "source": "RT",
-      "url": "https://www.rt.com/news/645413-putin-india-modi-brics/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-09-10T22:17:53Z",
-      "title_en": "Putin arrives in India for BRICS summit (VIDEO)",
-      "lead_en": "The Russian leader will hold talks with Prime Minister Narendra Modi and visit the INNOPROM industrial exhibition during his three-day trip Read Full Article at RT.com",
-      "title_raw": "Putin arrives in India for BRICS summit (VIDEO)",
-      "lead_raw": "The Russian leader will hold talks with Prime Minister Narendra Modi and visit the INNOPROM industrial exhibition during his three-day trip Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a7f8ec54e1f4527a7193a8f49f3dc7ca7525c995",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2185791",
-      "published_utc": "2026-09-10T22:04:11Z",
-      "title_en": "Putin arrives in New Delhi for BRICS summit",
-      "lead_en": "The Il-96 flight carrying the Russian leader landed at the Palam Air Force Station",
-      "title_raw": "Putin arrives in New Delhi for BRICS summit",
-      "lead_raw": "The Il-96 flight carrying the Russian leader landed at the Palam Air Force Station",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c2ff7b798193551ccdb7d1e69206a5141c246014",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28101009",
-      "published_utc": "2026-09-10T22:01:05Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Марочко сообщил о захвате армией РФ стратегических высот под Краматорском",
-      "lead_raw": "Российские военнослужащие наступают сразу с двух сторон, уточнил эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8b2ef8c3bbd984499f4d0de5a0cf97322b46b451",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28100539",
-      "published_utc": "2026-09-10T21:52:57Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Путин прибыл в Нью-Дели. Видеотрансляция завершена",
-      "lead_raw": "Ил-96 российского лидера сел на базе военно-воздушных сил Палам",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3610da9619c0042202033288e3848836d985361c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2185787",
-      "published_utc": "2026-09-10T21:36:08Z",
-      "title_en": "Data farmers taking advantage of Russia's fuel crisis — GFCN",
-      "lead_en": "Fake gas station maps have appeared online to farm data from Russian citizens, president of the Global Fact-Checking Network said",
-      "title_raw": "Data farmers taking advantage of Russia's fuel crisis — GFCN",
-      "lead_raw": "Fake gas station maps have appeared online to farm data from Russian citizens, president of the Global Fact-Checking Network said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
