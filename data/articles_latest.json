@@ -1,8 +1,234 @@
 {
-  "updated_at_utc": "2026-09-12T18:07:55Z",
+  "updated_at_utc": "2026-09-12T21:14:14Z",
   "keep_hours": 48,
-  "count": 380,
+  "count": 375,
   "articles": [
+    {
+      "id": "2d9d64e81381a41cca5f6dc9f828a5f8a3a205da",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28107009",
+      "published_utc": "2026-09-12T21:01:59Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "В России отмечают день танкиста",
+      "lead_raw": "Глава Минобороны Андрей Белоусов пожелал всему личному составу танковых войск крепкого здоровья и стойкости духа",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "83228ef620bd0b221ca10df102f41d4d112ff46d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28107005",
+      "published_utc": "2026-09-12T21:00:49Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Путин завершит трехдневный визит в Индию саммитом БРИКС в формате \"аутрич\"",
+      "lead_raw": "По предварительной информации, двусторонних встреч на полях мероприятия у российского лидера не ожидается",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "bb1887d4be6ebc95b84ad5b50435aa83b7475a7e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2186825",
+      "published_utc": "2026-09-12T20:06:45Z",
+      "title_en": "Rally against unfriendly policy towards Russia held outside Hungarian Foreign Ministry",
+      "lead_en": "The event was organized by coalition of public organizations Forum for Peace",
+      "title_raw": "Rally against unfriendly policy towards Russia held outside Hungarian Foreign Ministry",
+      "lead_raw": "The event was organized by coalition of public organizations Forum for Peace",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f12c276adec33a36155464f9b60be8812b55b810",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106973",
+      "published_utc": "2026-09-12T20:03:52Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Посольство РФ: в Того состоялось досрочное выездное голосование на выборах в ГД",
+      "lead_raw": "Голосование прошло спокойно и организованно, отметил пресс-атташе диппредставительства России в Бенине Максим Мелетин",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a9c14b9ebb636d6066247deec070786774d3aae7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186821",
+      "published_utc": "2026-09-12T19:52:20Z",
+      "title_en": "Presidents of Russia, Kazakhstan hold informal meeting during BRICS summit",
+      "lead_en": "Russian Presidential Press Secretary Dmitry Peskov announced this event",
+      "title_raw": "Presidents of Russia, Kazakhstan hold informal meeting during BRICS summit",
+      "lead_raw": "Russian Presidential Press Secretary Dmitry Peskov announced this event",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "54bb1f1023320487fd659144a2e3d12ea5bb4e63",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28106783",
+      "published_utc": "2026-09-12T19:25:17Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "В Калининградской области стартовала всероссийская медиашкола РСО и центра \"Шум\"",
+      "lead_raw": "Участниками мероприятия стали более 100 медиаработников студенческих отрядов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ac3b11f3e5568d41f120bd71d0921bb5f0ec6cad",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106937",
+      "published_utc": "2026-09-12T19:10:27Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "WAM: наследный принц Абу-Даби обсудил с Путиным укрепление отношений ОАЭ и РФ",
+      "lead_raw": "В начале встречи шейх Халед бен Мухаммед Аль Нахайян передал российскому лидеру приветствия от президента Объединенных Арабских Эмиратов, сообщило агентство",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2d048f471d4e99ce5f133d5536c4856b322b1e67",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28106915",
+      "published_utc": "2026-09-12T18:49:30Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Пивоваров поблагодарил \"Локомотив\" за возможность провести матч на его арене",
+      "lead_raw": "В субботу \"Динамо\" обыграло \"Оренбург\" в матче восьмого тура чемпионата России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2a2af2f4036c5944dc45c3e486270162dc19736a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28106913",
+      "published_utc": "2026-09-12T18:47:20Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Россияне выиграли медальный зачет ЧЕ по паралимпийскому плаванию",
+      "lead_raw": "Российские спортсмены завоевали 92 медали, в том числе 33 золотые",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "83787330775d826e90b7bb7b394f9a5a24ac7cab",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/military-operation-in-ukraine/2186807",
+      "published_utc": "2026-09-12T18:33:20Z",
+      "title_en": "At least 53 drones downed over Russian regions since morning",
+      "lead_en": "On-duty air defenses destroyed Ukrainian fixed-wing unmanned aerial vehicles over the regions of Belgorod, Bryansk, Kaluga, Rostov, Smolensk, Tula, Krasnodar, the Republic of Crimea and over the waters of the Black and Azov seas",
+      "title_raw": "At least 53 drones downed over Russian regions since morning",
+      "lead_raw": "On-duty air defenses destroyed Ukrainian fixed-wing unmanned aerial vehicles over the regions of Belgorod, Bryansk, Kaluga, Rostov, Smolensk, Tula, Krasnodar, the Republic of Crimea and over the waters of the Black and Azov seas",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a1c162d838432a1d2329e07a6f3ec4d9d8bcfa2c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186803",
+      "published_utc": "2026-09-12T18:10:55Z",
+      "title_en": "UAE became one of Russia’s closest partners in region — Putin",
+      "lead_en": "The President of the Russian Federation noted that 2026 marks the 55th anniversary of the establishment of diplomatic relations between Moscow and Abu Dhabi",
+      "title_raw": "UAE became one of Russia’s closest partners in region — Putin",
+      "lead_raw": "The President of the Russian Federation noted that 2026 marks the 55th anniversary of the establishment of diplomatic relations between Moscow and Abu Dhabi",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "664888581f76303329646b03bf35bfa06690a083",
       "source": "TASS (RU)",
@@ -10,8 +236,8 @@
       "published_utc": "2026-09-12T18:02:31Z",
       "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Такер назвал православие и поражение олигархов причинами нелюбви Запада к России",
-      "lead_raw": "Американский журналист отметил, что отношение президента РФ к православию стало \"провокационным шагом\", так как западные элиты видят в традиционном христианстве угрозу из-за верности человека Богу, а не государству",
+      "title_raw": "Такер Карлсон назвал поражение олигархов причиной нелюбви Запада к России",
+      "lead_raw": "Американский журналист отметил, что отношение президента РФ к православию также стало \"провокационным шагом\", так как западные элиты видят в традиционном христианстве угрозу из-за верности человека Богу, а не государству",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -7276,329 +7502,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "d7119f71757110291e7811a12213f4775afb9b33",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28100929",
-      "published_utc": "2026-09-10T21:00:56Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Путин начинает трехдневный визит в Индию для участия в саммите БРИКС",
-      "lead_raw": "Президент России выступит на пленарном заседании Делового форума БРИКС",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "781e7f592bb1ccb0deab6236a2261c67eea9aa23",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28100919",
-      "published_utc": "2026-09-10T20:59:52Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Welt: в СДПГ после выборов в Саксонии-Анхальте спорят насчет курса по России",
-      "lead_raw": "Тема возможного изменения курса касательно РФ обсуждалась 7 сентября на заседании фракции Социал-демократической партии Германии в Бундестаге, отметила газета",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b1662ef1dcb3bf5fb673ed02d3a660cb50f5f8d6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2185777",
-      "published_utc": "2026-09-10T20:31:52Z",
-      "title_en": "Russia calls on West to abandon intent to renew sanctions against Iran — envoy to UN",
-      "lead_en": "Russia's Permanent Representative to the UN Vasily Nebenzya noted that Russia \"will continue to obstruct attempts to revive Committee 1737\" on sanctions regarding Iran's nuclear program",
-      "title_raw": "Russia calls on West to abandon intent to renew sanctions against Iran — envoy to UN",
-      "lead_raw": "Russia's Permanent Representative to the UN Vasily Nebenzya noted that Russia \"will continue to obstruct attempts to revive Committee 1737\" on sanctions regarding Iran's nuclear program",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0f7f9ca788937b062b45eb05f1ae97450a2608a1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28100833",
-      "published_utc": "2026-09-10T19:49:36Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Майгуров считает, что российский биатлон развивается внутри страны",
-      "lead_raw": "Российские биатлонисты отстранены от участия в международных соревнованиях с 2022 года",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "07184643812e33a14dde39dcc9e4211eb4378131",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28100777",
-      "published_utc": "2026-09-10T19:21:24Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "На Коморах подписали соглашение о поощрении распространения русского языка",
-      "lead_raw": "Документ предусматривает открытие школы русского языка при ВИАУМ",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0d086ccae15a039bd48708f38792ff32c2d8478f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28100775",
-      "published_utc": "2026-09-10T19:18:36Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Посол РФ: избранная в ноябре власть в Гагаузии должна отвечать интересам народа",
-      "lead_raw": "Россия поддерживает проведение выборов, но при том понимании, что Молдавия \"будет сама уважать свои собственные законы\", отметил Олег Озеров",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4fe08b360beb1fad908b6dc590b43f1313d11b65",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28100749",
-      "published_utc": "2026-09-10T19:15:20Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Россия нарастила долю в импорте удобрений Эфиопии до 28%",
-      "lead_raw": "В 2025 году РФ поставила в республику рекордные полмиллиона тонн удобрений",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d9755419b36fc94805f80a5cebc9f861f39c6175",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28100747",
-      "published_utc": "2026-09-10T19:11:33Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "В РФ заявили о готовности к обмену технологиями по производству удобрений с ЮАР",
-      "lead_raw": "Глава Российской ассоциации производителей удобрений Андрей Гурьев отметил, что в обеих странах расположены редчайшие по своей чистоте месторождения фосфатов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1829a1fe636973f150aeeca4512afd288129c957",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28100751",
-      "published_utc": "2026-09-10T19:03:38Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Страны БРИКС прорабатывают запуск углеродного хаба и транспортной академии",
-      "lead_raw": "Глава российской части делового совета объединения Андрей Гурьев отметил, что среди продвинувшихся инициатив, - альянс кредитных рейтинговых агентств стран БРИКС, фонд БРИКС для поддержки малого и среднего предпринимательства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a1f867850aac31bc8df7bc36107e2e6cbe2100ae",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28100753",
-      "published_utc": "2026-09-10T19:02:01Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "РФ нарастила поставки удобрений в Китай в I полугодии на треть",
-      "lead_raw": "В КНР поставлено уже 3 млн тонн удобрений, сообщил глава Российской ассоциации производителей удобрений Андрей Гурьев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "aed84bbd047ef543bd9bd6196159f017ec3367a1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28100733",
-      "published_utc": "2026-09-10T18:57:52Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "ТАСС: на Украине началось расформирование штурмовых войск ВСУ",
-      "lead_raw": "В частности, скандально известный 225-й полк официально подтвердил информацию о переходе в десантно-штурмовые войска, сообщили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4de3aba87c12b7f591a4945e77433ed359a5a196",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28100721",
-      "published_utc": "2026-09-10T18:51:54Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Посол РФ не исключил провокаций вокруг складов с боеприпасами в Приднестровье",
-      "lead_raw": "Олег Озеров подчеркнул, что взрыв складов в Колбасне, которые охраняют российские военные, может привести к \"катастрофе регионального масштаба\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5e3d918aea87f9abdbe13dc376975a729413e02f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28100709",
-      "published_utc": "2026-09-10T18:47:27Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Посольство РФ: россияне рискуют стать жертвами провокаций в странах ЕС",
-      "lead_raw": "Диппредставительство прокомментировало задержание гражданина РФ в Румынии",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ecd8f1da2917c2e195c52c6d692ecb29e03a92f4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28100707",
-      "published_utc": "2026-09-10T18:41:14Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Президент Израиля выпустил к еврейскому Новому году обращение на русском",
-      "lead_raw": "С помощью ИИ-технологий его перевели и дублировали с английского на семь языков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ba9eec08239c82e7c736df8d78dc06e17c1f8463",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28100697",
-      "published_utc": "2026-09-10T18:40:01Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Посол РФ: Молдавия обвиняет Россию в падении БПЛА, не приводя доказательств",
-      "lead_raw": "Олег Озеров привел в пример расследование по дронам в Финляндии, которое показало, что они оказались украинскими",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9f9eacf36c2857535276e23dd30b130277b69236",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28100679",
-      "published_utc": "2026-09-10T18:25:57Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Каллас предложила передать дела по обходу санкций Европейской прокуратуре",
-      "lead_raw": "Инициатива предполагает, что прокуратура будет преследовать на территории сообщества тех, кто нарушает действующий режим ограничений, работая с российскими и белорусскими организациями, пишет издание Politico",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
