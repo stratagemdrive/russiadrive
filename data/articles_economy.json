@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-09-12T18:07:55Z",
+  "updated_at_utc": "2026-09-12T21:14:14Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 82,
+  "count": 79,
   "articles": [
     {
       "id": "94b097c8a27c2833cf4495608689532ff81eb210",
@@ -1604,65 +1604,6 @@
       "lead_en": "The list includes the head of Rosmolodyozh youth affairs agency, Grigory Gurov, and Russian Emergencies Minister Alexander Kurenkov",
       "title_raw": "Canada imposes sanctions on eight Russian individuals, including Emergencies Minister",
       "lead_raw": "The list includes the head of Rosmolodyozh youth affairs agency, Grigory Gurov, and Russian Emergencies Minister Alexander Kurenkov",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b1662ef1dcb3bf5fb673ed02d3a660cb50f5f8d6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2185777",
-      "published_utc": "2026-09-10T20:31:52Z",
-      "title_en": "Russia calls on West to abandon intent to renew sanctions against Iran — envoy to UN",
-      "lead_en": "Russia's Permanent Representative to the UN Vasily Nebenzya noted that Russia \"will continue to obstruct attempts to revive Committee 1737\" on sanctions regarding Iran's nuclear program",
-      "title_raw": "Russia calls on West to abandon intent to renew sanctions against Iran — envoy to UN",
-      "lead_raw": "Russia's Permanent Representative to the UN Vasily Nebenzya noted that Russia \"will continue to obstruct attempts to revive Committee 1737\" on sanctions regarding Iran's nuclear program",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4fe08b360beb1fad908b6dc590b43f1313d11b65",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28100749",
-      "published_utc": "2026-09-10T19:15:20Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Россия нарастила долю в импорте удобрений Эфиопии до 28%",
-      "lead_raw": "В 2025 году РФ поставила в республику рекордные полмиллиона тонн удобрений",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9f9eacf36c2857535276e23dd30b130277b69236",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28100679",
-      "published_utc": "2026-09-10T18:25:57Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Каллас предложила передать дела по обходу санкций Европейской прокуратуре",
-      "lead_raw": "Инициатива предполагает, что прокуратура будет преследовать на территории сообщества тех, кто нарушает действующий режим ограничений, работая с российскими и белорусскими организациями, пишет издание Politico",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,

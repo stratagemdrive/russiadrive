@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-09-12T18:07:55Z",
+  "updated_at_utc": "2026-09-12T21:14:14Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 29,
   "articles": [
+    {
+      "id": "bb1887d4be6ebc95b84ad5b50435aa83b7475a7e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2186825",
+      "published_utc": "2026-09-12T20:06:45Z",
+      "title_en": "Rally against unfriendly policy towards Russia held outside Hungarian Foreign Ministry",
+      "lead_en": "The event was organized by coalition of public organizations Forum for Peace",
+      "title_raw": "Rally against unfriendly policy towards Russia held outside Hungarian Foreign Ministry",
+      "lead_raw": "The event was organized by coalition of public organizations Forum for Peace",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "b1e4fe13fd8d272849c42e6186c8e330bff79240",
       "source": "TASS (RU)",
@@ -595,27 +617,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "781e7f592bb1ccb0deab6236a2261c67eea9aa23",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28100919",
-      "published_utc": "2026-09-10T20:59:52Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Welt: в СДПГ после выборов в Саксонии-Анхальте спорят насчет курса по России",
-      "lead_raw": "Тема возможного изменения курса касательно РФ обсуждалась 7 сентября на заседании фракции Социал-демократической партии Германии в Бундестаге, отметила газета",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 0,
         "local_events": 0
       },

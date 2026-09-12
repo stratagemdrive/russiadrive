@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-09-12T18:07:55Z",
+  "updated_at_utc": "2026-09-12T21:14:14Z",
   "keep_hours": 48,
   "topic": "military",
   "count": 50,
   "articles": [
+    {
+      "id": "2d9d64e81381a41cca5f6dc9f828a5f8a3a205da",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28107009",
+      "published_utc": "2026-09-12T21:01:59Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "В России отмечают день танкиста",
+      "lead_raw": "Глава Минобороны Андрей Белоусов пожелал всему личному составу танковых войск крепкого здоровья и стойкости духа",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "83787330775d826e90b7bb7b394f9a5a24ac7cab",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/military-operation-in-ukraine/2186807",
+      "published_utc": "2026-09-12T18:33:20Z",
+      "title_en": "At least 53 drones downed over Russian regions since morning",
+      "lead_en": "On-duty air defenses destroyed Ukrainian fixed-wing unmanned aerial vehicles over the regions of Belgorod, Bryansk, Kaluga, Rostov, Smolensk, Tula, Krasnodar, the Republic of Crimea and over the waters of the Black and Azov seas",
+      "title_raw": "At least 53 drones downed over Russian regions since morning",
+      "lead_raw": "On-duty air defenses destroyed Ukrainian fixed-wing unmanned aerial vehicles over the regions of Belgorod, Bryansk, Kaluga, Rostov, Smolensk, Tula, Krasnodar, the Republic of Crimea and over the waters of the Black and Azov seas",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "04112e3e10da9fb7ea2fe02391cd59209ab5ae8a",
       "source": "TASS (RU)",
@@ -1020,49 +1062,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "aed84bbd047ef543bd9bd6196159f017ec3367a1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28100733",
-      "published_utc": "2026-09-10T18:57:52Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "ТАСС: на Украине началось расформирование штурмовых войск ВСУ",
-      "lead_raw": "В частности, скандально известный 225-й полк официально подтвердил информацию о переходе в десантно-штурмовые войска, сообщили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4de3aba87c12b7f591a4945e77433ed359a5a196",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28100721",
-      "published_utc": "2026-09-10T18:51:54Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Посол РФ не исключил провокаций вокруг складов с боеприпасами в Приднестровье",
-      "lead_raw": "Олег Озеров подчеркнул, что взрыв складов в Колбасне, которые охраняют российские военные, может привести к \"катастрофе регионального масштаба\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
