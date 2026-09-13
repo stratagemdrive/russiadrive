@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-09-12T21:14:14Z",
+  "updated_at_utc": "2026-09-12T23:46:15Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 29,
   "articles": [
+    {
+      "id": "68ea1ab33581ab8710b096b61619893472a6d830",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186843",
+      "published_utc": "2026-09-12T23:02:30Z",
+      "title_en": "Higher gas prices in Europe are price of globalist ideology — Dmitriev",
+      "lead_en": "The Russian presidential envoy highlighted its \"deep economic irrationality\"",
+      "title_raw": "Higher gas prices in Europe are price of globalist ideology — Dmitriev",
+      "lead_raw": "The Russian presidential envoy highlighted its \"deep economic irrationality\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "bb1887d4be6ebc95b84ad5b50435aa83b7475a7e",
       "source": "TASS (EN)",
@@ -592,27 +614,6 @@
       "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "В \"Офицерах России\" уверены, что Латвия не обеспечит Венгрию нефтью и газом",
       "lead_raw": "Рига пытается продавать Будапешту \"дешевую политическую вывеску\", заявил член экспертного совета организации, экс-депутат Рижской городской думы Руслан Панкратов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3610da9619c0042202033288e3848836d985361c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2185787",
-      "published_utc": "2026-09-10T21:36:08Z",
-      "title_en": "Data farmers taking advantage of Russia's fuel crisis — GFCN",
-      "lead_en": "Fake gas station maps have appeared online to farm data from Russian citizens, president of the Global Fact-Checking Network said",
-      "title_raw": "Data farmers taking advantage of Russia's fuel crisis — GFCN",
-      "lead_raw": "Fake gas station maps have appeared online to farm data from Russian citizens, president of the Global Fact-Checking Network said",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,

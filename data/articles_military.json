@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-09-12T21:14:14Z",
+  "updated_at_utc": "2026-09-12T23:46:15Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 50,
+  "count": 48,
   "articles": [
+    {
+      "id": "c0e64605a1b18b9ecc6a69c835318faa58ca590b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28107045",
+      "published_utc": "2026-09-12T22:02:38Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Марочко заявил, что ВСУ хотят отсрочить неизбежное в Доброполье за счет солдат",
+      "lead_raw": "Украинское командование пытается наращивать группировку в городе, российские силы готовят для противника огневой мешок, уточнил военный эксперт",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2d9d64e81381a41cca5f6dc9f828a5f8a3a205da",
       "source": "TASS (RU)",
@@ -116,7 +137,7 @@
       "url": "https://tass.ru/armiya-i-opk/28106651",
       "published_utc": "2026-09-12T15:10:33Z",
       "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The Russian army continued to attack Ukrainian seaports",
       "title_raw": "ВС РФ поразили сухогруз с военными грузами ВСУ в порту Одесса",
       "lead_raw": "Российская армия продолжила нанесение ударов по морским портам Украины",
       "topic_scores": {
@@ -988,69 +1009,6 @@
       "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Марочко сообщил об усилении давления ВС РФ на ВСУ в котле под Волчанском",
       "lead_raw": "Правый фланг российские бойцы серьезно закрепили, добавил военный эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a83ed6e50fbd12f1e5873e15b32ddb625fbad948",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28101049",
-      "published_utc": "2026-09-10T23:00:43Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Марочко сообщил о закреплении ВС РФ у Василевской Пустоши под Краматорском",
-      "lead_raw": "Российские военнослужащие начали бои за населенный пункт, отметил эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c2ff7b798193551ccdb7d1e69206a5141c246014",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28101009",
-      "published_utc": "2026-09-10T22:01:05Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Марочко сообщил о захвате армией РФ стратегических высот под Краматорском",
-      "lead_raw": "Российские военнослужащие наступают сразу с двух сторон, уточнил эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8b2ef8c3bbd984499f4d0de5a0cf97322b46b451",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28100539",
-      "published_utc": "2026-09-10T21:52:57Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Путин прибыл в Нью-Дели. Видеотрансляция завершена",
-      "lead_raw": "Ил-96 российского лидера сел на базе военно-воздушных сил Палам",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,

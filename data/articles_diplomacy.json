@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-09-12T21:14:14Z",
+  "updated_at_utc": "2026-09-12T23:46:15Z",
   "keep_hours": 48,
   "topic": "diplomacy",
-  "count": 84,
+  "count": 83,
   "articles": [
+    {
+      "id": "10154cb1c2e37bc93d15a5b2fa0e3914e22787a6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2186851",
+      "published_utc": "2026-09-12T23:39:56Z",
+      "title_en": "US believes Russia, Ukraine want to find way to settle conflict — Kushner",
+      "lead_en": "The presidential envoy said the negotiators \"have to find the right formula\" for the deal",
+      "title_raw": "US believes Russia, Ukraine want to find way to settle conflict — Kushner",
+      "lead_raw": "The presidential envoy said the negotiators \"have to find the right formula\" for the deal",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "68ea1ab33581ab8710b096b61619893472a6d830",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186843",
+      "published_utc": "2026-09-12T23:02:30Z",
+      "title_en": "Higher gas prices in Europe are price of globalist ideology — Dmitriev",
+      "lead_en": "The Russian presidential envoy highlighted its \"deep economic irrationality\"",
+      "title_raw": "Higher gas prices in Europe are price of globalist ideology — Dmitriev",
+      "lead_raw": "The Russian presidential envoy highlighted its \"deep economic irrationality\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "83228ef620bd0b221ca10df102f41d4d112ff46d",
       "source": "TASS (RU)",
@@ -1114,7 +1157,7 @@
       "url": "https://tass.ru/mezhdunarodnaya-panorama/28104341",
       "published_utc": "2026-09-11T16:52:52Z",
       "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "She emphasized that the Zelensky regime calls anyone who is ready to talk “about peace and compromise” pro-Russian.",
       "title_raw": "Мендель заявила, что Украине придется начать переговоры с Россией",
       "lead_raw": "Она подчеркнула, что режим Зеленского называет пророссийским любого, кто готов говорить \"о мире и компромиссе\"",
       "topic_scores": {
@@ -1239,7 +1282,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/28104285",
       "published_utc": "2026-09-11T16:24:11Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Egyptian President hopes for stabilization of the situation in the Middle East",
       "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Президент Египта надеется на стабилизацию обстановки на Ближнем Востоке",
       "lead_raw": "Особенно важно обеспечение безопасности морских акваторий и артерий, свободы навигации, подчеркнул Абдель Фаттах ас-Сиси на встрече с российским лидером",
@@ -1712,69 +1755,6 @@
       "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Около половины россиянок считают, что первое свидание должно быть без алкоголя",
       "lead_raw": "Среди мужчин за полностью трезвую встречу выступают 34%, говорится в исследовании дейтинг-сервиса \"Мамба\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f524d5e6b73f5ad13428277a216964e2c7bd2d7a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2185797",
-      "published_utc": "2026-09-10T23:27:46Z",
-      "title_en": "PREVIEW: Putin begins three-day visit to India for BRICS summit",
-      "lead_en": "Russian President will address the plenary session of the annual Business Forum",
-      "title_raw": "PREVIEW: Putin begins three-day visit to India for BRICS summit",
-      "lead_raw": "Russian President will address the plenary session of the annual Business Forum",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "6fab9a43277c7180d7c6bf9bb3c908b913cb51f8",
-      "source": "RT",
-      "url": "https://www.rt.com/news/645413-putin-india-modi-brics/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-09-10T22:17:53Z",
-      "title_en": "Putin arrives in India for BRICS summit (VIDEO)",
-      "lead_en": "The Russian leader will hold talks with Prime Minister Narendra Modi and visit the INNOPROM industrial exhibition during his three-day trip Read Full Article at RT.com",
-      "title_raw": "Putin arrives in India for BRICS summit (VIDEO)",
-      "lead_raw": "The Russian leader will hold talks with Prime Minister Narendra Modi and visit the INNOPROM industrial exhibition during his three-day trip Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a7f8ec54e1f4527a7193a8f49f3dc7ca7525c995",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2185791",
-      "published_utc": "2026-09-10T22:04:11Z",
-      "title_en": "Putin arrives in New Delhi for BRICS summit",
-      "lead_en": "The Il-96 flight carrying the Russian leader landed at the Palam Air Force Station",
-      "title_raw": "Putin arrives in New Delhi for BRICS summit",
-      "lead_raw": "The Il-96 flight carrying the Russian leader landed at the Palam Air Force Station",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
